@@ -1,4 +1,4 @@
-## Awesome Frontend link
+## Awesome Frontend Links
 Awesome collection of frontend stuff. Utiltiies, articles, libraries, cool tools, demos, and more...
 
 * http://en.wikipedia.org/wiki/ECMAScript
