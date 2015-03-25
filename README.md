@@ -67,3 +67,11 @@ Awesome collection of frontend stuff. Utiltiies, articles, libraries, cool tools
 * https://github.com/airbnb/javascript
 * Email Tools
     * https://www.campaignmonitor.com/css/
+
+## Interesting Reads and Articles
+
+* [Reusable Abstractions in CoffeeScript](https://github.com/raganwald-deprecated/homoiconic/blob/master/2012/01/reuseable-abstractions.md)
+* [Symmetry in ES6](http://raganwald.com/2015/03/12/symmetry.html)
+* [Strategies for Staying on Top of Web Performance](https://css-tricks.com/strategies-for-staying-on-top-of-web-performance/)
+    * [Chrome DevTools: State of the Union 2015](https://speakerdeck.com/addyosmani/devtools-state-of-the-union-2015)
+    * [Wikipedia Performance Audit](https://docs.google.com/document/d/1K-mKOqiUiSjgZTEscBLjtjd6E67oiK8H2ztOiq5tigk/pub#h.vwra8t2fwx8t)
