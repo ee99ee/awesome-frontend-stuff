@@ -13,7 +13,7 @@ Awesome collection of frontend stuff. Utiltiies, articles, libraries, cool tools
 * http://rtomayko.github.com/rocco/
     * Ruby version of http://jashkenas.github.com/docco/
 * Testing:
-    * http://visionmedia.github.com/mocha/
+    * http://mochajs.org/
     * http://qunitjs.com/
     * http://phantomjs.org/
     * http://www.browserstack.com/
